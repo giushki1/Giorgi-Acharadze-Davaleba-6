@@ -5,7 +5,12 @@ body {
   background-color: whitesmoke;
   padding: 0px;
   margin: 0px;
+}
+.logo,.navigation-a,.title1 {
   font-family: 'Poppins', sans-serif;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
 }
 a {
   text-decoration: none;
