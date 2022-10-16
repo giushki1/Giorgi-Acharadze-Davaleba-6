@@ -56,6 +56,7 @@ a {
 }
 .sec1-wrapper {
   margin-top: 90px;
+  margin-left: 20px;
   display: inline-block;
 }
 .title1 {
@@ -81,6 +82,7 @@ a {
 }
 .left-text {
   font-size: 13px;
+  line-height: 25px;
   color: #a6adb4;
   padding: 76px 39px 66px 40px;
   background-color: white;
@@ -91,13 +93,13 @@ a {
 }
 .time-icon {
   width: 16px;
-  top: 294px;
+  top: 314px;
   left: 40px;
 }
 .minutes {
   font-size: 13px;
   color: #a6adb4;
-  top: 296px;
+  top: 316px;
   left: 66px;
 }
 
