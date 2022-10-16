@@ -158,7 +158,8 @@ a {
   cursor: pointer;
 }
 .sec2img1 {
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
+  margin-bottom: 14px;
 }
 .sec2-title {
   font-size: 16px;
@@ -171,12 +172,14 @@ a {
 }
 .box-2 {
   width: 360px;
-  margin-left: 20px;
+  margin-left: 14px;
   display: inline-block;
   vertical-align: top;
 }
 .box-2-img {
   margin-bottom: 14px;
+  width: 360px;
+  height: 206px;
   transition: 0.3s ease;
 }
 .box-2-img:hover {
