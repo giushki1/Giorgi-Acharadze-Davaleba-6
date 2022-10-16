@@ -126,6 +126,8 @@ a {
   width: 760px;
   height: 900px;
   position: relative;
+  display: inline-block;
+  vertical-align: top;
 }
 .sec2img1,.sec2img2 {
   width: 760px;
@@ -141,5 +143,14 @@ a {
   right: 171px;
   bottom: 260px;
   left: 308px;
+}
+.box-2 {
+  width: 360px;
+  margin-left: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+.box-2-img {
+  margin-bottom: 127px;
 }
 
