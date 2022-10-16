@@ -19,9 +19,11 @@ a {
 .header {
   height: 50px;
   width: 100%;
+  background-color: whitesmoke;
   position: fixed;
   top: 0px;
   left: 0px;
+  z-index: 100;
 }
 .logo {
   font-size: 18px;
@@ -110,4 +112,34 @@ a {
 }
 /* section1 ends ! */
 /* Section2 starts! */
+
+.sec2-wrapper {
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 58px;
+}
+.title2{
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+.box-1 { 
+  width: 760px;
+  height: 900px;
+  position: relative;
+}
+.sec2img1,.sec2img2 {
+  width: 760px;
+}
+.sec2img1 {
+  margin-bottom: 30px;
+}
+.sec2-title {
+  font-size: 16px;
+  color: white;
+  position: absolute;
+  top :194px;
+  right: 171px;
+  bottom: 260px;
+  left: 308px;
+}
 
