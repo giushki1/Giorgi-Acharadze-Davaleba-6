@@ -153,4 +153,47 @@ a {
 .box-2-img {
   margin-bottom: 127px;
 }
+/* section2 ends! */
+/* Footer starts! */
+.footer {
+  height: 200px;
+  background-color: #a6adb4;
+}
+.footer-logo,.footer-ul1,.footer-ul2,.footer-ul3,.footer-p {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 95px;
+  padding-top: 59px;
+  font-family: 'Montserrat', sans-serif;
+}
+.footer-ul1,.footer-ul2,.footer-ul3,.footer-p {
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing: 0.8px;
+}
+.footer-logo {
+  font-size: 13px;
+  font-weight: 600;
+  color: white;
+  padding-top: 59px;
+  padding-left: 142px;
+}
+.footer-a,.footer-p {
+  color: white;
+}
+.footer-p {
+  font-size: 11px;
+}
+.social-box {
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 59px;
+  margin-left: 120px;
+}
+.insta-icon,.twitt-icon,.fb-icon,.web-icon {
+  width: 16px;
+  height: 16px;
+  margin-left: 32px;
+}
+
 
