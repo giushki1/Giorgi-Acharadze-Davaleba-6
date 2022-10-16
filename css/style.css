@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 body {
+  background-color: whitesmoke;
   padding: 0px;
   margin: 0px;
   font-family: 'Poppins', sans-serif;
@@ -47,3 +48,55 @@ a {
   margin-left: 20px;
 }
 /* header ends ! */
+/* section 1 starts! */
+.container {
+  max-width: 1160px;
+  width: 100%;
+  margin: 0 auto;
+}
+.sec1-wrapper {
+  margin-top: 90px;
+}
+.title1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #202124;
+  margin-bottom: 40px;
+}
+.left-box{
+ width: 360px;
+ height: 360px;
+ position: relative;
+}
+.img1 {
+  width: 100%;
+}
+.left-title {
+  font-size: 16px;
+  color: white;
+  position: absolute;
+  top: 28px;
+  left: 40px;
+}
+.left-text {
+  font-size: 13px;
+  color: #a6adb4;
+  padding: 76px 39px 66px 40px;
+  background-color: white;
+  border-radius: 6px;
+}
+.time-icon,.minutes {
+  position: absolute;
+}
+.time-icon {
+  width: 16px;
+  top: 294px;
+  left: 40px;
+}
+.minutes {
+  font-size: 13px;
+  color: #a6adb4;
+  top: 296px;
+  left: 66px;
+}
+
