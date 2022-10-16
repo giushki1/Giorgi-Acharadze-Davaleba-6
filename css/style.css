@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+}
+a {
+  text-decoration: none;
+}
+/* Header starts! */
+.header {
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
