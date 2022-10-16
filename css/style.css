@@ -148,6 +148,7 @@ a {
   position: relative;
   display: inline-block;
   vertical-align: top;
+  margin-bottom: 50px;
 }
 .sec2img1,.sec2img2 {
   width: 760px;
