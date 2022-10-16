@@ -49,6 +49,10 @@ a {
 }
 .navigation-a {
   color: #343638;
+  transition: 0.3s ease;
+}
+.navigation-a:hover {
+  color: rgb(213, 160, 160);
 } 
 .prof-img {
   vertical-align: middle;
@@ -71,6 +75,10 @@ a {
   font-weight: 600;
   color: #202124;
   margin-bottom: 40px;
+  transition: 0.3s ease;
+}
+.title1:hover {
+  color: #a6adb5;
 }
 .left-box{
  width: 360px;
@@ -79,6 +87,10 @@ a {
 }
 .img1 {
   width: 100%;
+  transition: 0.3s ease;
+}
+.img1:hover {
+  border-radius: 30px;
 }
 .left-title {
   font-size: 16px;
@@ -95,6 +107,10 @@ a {
   padding: 76px 39px 66px 40px;
   background-color: white;
   border-radius: 6px;
+  transition: 0.3s ease;
+}
+.left-text:hover {
+  color: #202124;
 }
 .time-icon,.minutes {
   position: absolute;
@@ -121,6 +137,10 @@ a {
 .title2{
   font-size: 24px;
   margin-bottom: 40px;
+  transition: 0.3s ease;
+}
+.title2:hover {
+  color: #a6adb5;
 }
 .box-1 { 
   width: 760px;
@@ -131,6 +151,11 @@ a {
 }
 .sec2img1,.sec2img2 {
   width: 760px;
+  transition: 0.3s;
+}
+.sec2img1:hover,.sec2img2:hover {
+  border-radius: 50px;
+  cursor: pointer;
 }
 .sec2img1 {
   margin-bottom: 30px;
