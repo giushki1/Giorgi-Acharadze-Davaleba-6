@@ -31,10 +31,7 @@ a {
   color: #fa6980;
   display: inline-block;
   vertical-align: middle;
-  padding-top:20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-  padding-left: 50px;
+  padding:20px 20px 20px 50px;
   margin-right: 90px;
 }
 .active {
