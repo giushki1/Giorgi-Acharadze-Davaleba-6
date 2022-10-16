@@ -75,6 +75,7 @@ a {
 }
 .left-title {
   font-size: 16px;
+  letter-spacing: 0.2px;
   color: white;
   position: absolute;
   top: 28px;
@@ -102,4 +103,6 @@ a {
   top: 316px;
   left: 66px;
 }
+/* section1 ends ! */
+/* Section2 starts! */
 
